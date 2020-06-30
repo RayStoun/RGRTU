@@ -1,0 +1,16 @@
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\ThisLab.csprojAssemblyReference.cache
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\Kursach.GeneralForm.resources
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\Kursach.ProductForm.resources
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\Kursach.Properties.Resources.resources
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\ThisLab.csproj.GenerateResource.cache
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\ThisLab.csproj.CoreCompileInputs.cache
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\Kursach.AddClientForm.resources
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\Kursach.EditClientForm.resources
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\Kursach.FindClientForm.resources
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\Kursach.FindClientViewModel.resources
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\Kursach.EditProductForm.resources
+C:\Users\Юджин\source\repos\Курсач\Курсач\bin\Debug\ClientBank.exe.config
+C:\Users\Юджин\source\repos\Курсач\Курсач\bin\Debug\ClientBank.exe
+C:\Users\Юджин\source\repos\Курсач\Курсач\bin\Debug\ClientBank.pdb
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\ClientBank.exe
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\ClientBank.pdb

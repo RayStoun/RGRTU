@@ -1,0 +1,12 @@
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\Kursach.ClientForm.resources
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\Kursach.GeneralForm.resources
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.cache
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\Юджин\source\repos\Курсач\Курсач\bin\Debug\Курсач.pdb
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\Курсач.pdb
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\Kursach.Properties.Resources.resources
+C:\Users\Юджин\source\repos\Курсач\Курсач\bin\Debug\Курсач.exe.config
+C:\Users\Юджин\source\repos\Курсач\Курсач\bin\Debug\Курсач.exe
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\Курсач.csprojAssemblyReference.cache
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\Курсач.exe
+C:\Users\Юджин\source\repos\Курсач\Курсач\obj\Debug\Kursach.ProductForm.resources
